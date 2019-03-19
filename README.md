@@ -8,7 +8,7 @@
 [결과5](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result5.png),
 [결과6](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result6.png)
 
-1. 제출자: 201412839 최홍범
+1. 제출자: __201412839 최홍범__
 
 2. 과제 완성도 (다음 중 해당하는 사항에 모두 표시한다.)
 
