@@ -1,12 +1,8 @@
 # 프로그래밍 과제 02
 
-[결과0](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result0.png),
-[결과1](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result1.png),
-[결과2](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result2.png),
-[결과3](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result3.png),
-[결과4](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result4.png),
-[결과5](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result5.png),
-[결과6](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result6.png)
+#### 코드 - https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/solve.py
+
+#### 결과 - [결과0](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result0.png), [결과1](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result1.png), [결과2](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result2.png), [결과3](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result3.png), [결과4](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result4.png), [결과5](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result5.png), [결과6](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result6.png)
 
 1. 제출자: __201412839 최홍범__
 
