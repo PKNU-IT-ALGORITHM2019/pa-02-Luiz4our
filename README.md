@@ -1,6 +1,6 @@
 # 프로그래밍 과제 02
 
-#### 코드 - https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/solve.py
+#### 코드 - https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/solve.py 
 
 #### 결과 - [결과0](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result0.png), [결과1](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result1.png), [결과2](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result2.png), [결과3](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result3.png), [결과4](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result4.png), [결과5](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result5.png), [결과6](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/%EA%B2%B0%EA%B3%BC/result6.png)
 
@@ -16,6 +16,7 @@
 
 
 3. 기타 사항
+    - Python3으로 작성하였습니다.
     - [문제](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/prog_assign02.pdf)에서는 어디서부터 시작하는지 정해져있지 않지만, 결과값을 봤을 때 0부터 시작했을 때의 최단거리를 구해야 하는 것 같습니다.
         - 0부터 시작하는 것이 해가 아닌 경우.
 	[결과2](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/결과/result2.png),
