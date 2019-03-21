@@ -36,6 +36,8 @@
         - [결과6](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/결과/result6.png)
             - input6.txt `[0, 15, 4, 10, 13, 8, 5, 11, 9, 2, 6, 14, 7, 1, 12, 3]`
             - solve.py `[0, 3, 12, 1, 7, 14, 6, 2, 9, 11, 5, 8, 13, 10, 4, 15]`
+	    
+    - [수업 중 dfs로 작성한 코드입니다.](https://github.com/PKNU-IT-ALGORITHM2019/pa-02-Luiz4our/blob/master/solve_dfs.py)
 	
 	
 	
